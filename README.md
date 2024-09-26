@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-
+https://github.com/Bharathsimhareddykatta/flask-simple-project.git
 Project Structure
 .
 ├── app.py               # Main Flask application file
@@ -30,7 +30,7 @@ Project Structure
 
 
 Technologies Used
-Flask: A lightweight web framework for Python.
+Flask: A lightweight web framework for Python\n.
 HTML: Used for structuring the pages.
 CSS: Used for styling the website.
 
